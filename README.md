@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Whatsapp +1 324-2914 Email: donnellboodoo@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love to play football/soccer.
 
 <!---
