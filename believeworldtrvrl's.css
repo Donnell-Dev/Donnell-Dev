@@ -1,0 +1,135 @@
+p
+  {
+font-family:Arial ;
+margin-top: 0px;
+margin-bottom: 0px;
+text-align: center;
+  }
+.business-name
+  {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial;
+    margin-bottom: 30px;
+  }
+
+  .business-name-appearance
+  {
+    background-color: rgb(16, 212, 238);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+  }
+
+.cruise-tab-appearance
+  {
+  font-weight: bold;
+  font-size: 25px;
+  background-color: rgb(35, 216, 35);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+  transition: color 0.5s, padding-right 0.15s, padding-left 0.15s;
+  
+  }
+
+.cruise-tab-appearance:hover
+  {
+color: white;
+transition: color 0.5s, padding-right 0.15s, padding-left 0.15s;
+cursor: pointer;
+padding-right: 50px;
+padding-left: 50px;
+
+  }
+
+  .flights-tab-appearance
+  {
+    font-weight: bold;
+  font-size: 25px;
+  background-color: rgb(35, 216, 35);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+  transition: color 0.5s, padding-right 0.15s, padding-left 0.15s;
+  
+  }
+
+  .flights-tab-appearance:hover
+  {
+    color: white;
+transition: color 0.5s, padding-right 0.15s, padding-left 0.15s;
+cursor: pointer;
+padding-right: 50px;
+padding-left: 50px;
+  }
+
+
+
+  .flights-tab
+  {
+    margin-top: 30px;
+  }
+
+  .hotels-tab
+  {
+    margin-top: 30px;
+  }
+
+  .hotels-tab-appearance
+  {
+    font-weight: bold;
+  font-size: 25px;
+  background-color: rgb(35, 216, 35);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+  transition: color 0.5s, padding-right 0.15s, padding-left 0.15s;
+  }
+
+  .hotels-tab-appearance:hover
+  {
+    color: white;
+transition: color 0.5s, padding-right 0.15s, padding-left 0.15s;
+cursor: pointer;
+padding-right: 50px;
+padding-left: 50px;
+  }
+
+  .contactinformation
+  {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .contact
+  {
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .contact:hover
+  {
+text-decoration: underline;
+  }
+
+  .contactinformation:hover
+  {
+    text-decoration: underline;
+  }
+  
